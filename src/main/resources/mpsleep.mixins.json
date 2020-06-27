@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.arkav.mpsleep.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinServerPlayerEntity"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
